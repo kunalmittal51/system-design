@@ -31,6 +31,7 @@ public class BookMyShow {
     }
 
     private void createTheatre() {
+        System.out.println("Creating Theatre");
         Movie movie = movieController.getMoviesByName("The Shawshank Redemption");
         Movie movie1 = movieController.getMoviesByName("Moneyball");
 
