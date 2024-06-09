@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb74f890-aa19-45fa-aea4-7ca89181e8b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/BookMyShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/controller/MovieController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/controller/TheatreController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/entity/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/entity/Screen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/entity/Seat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/entity/Shows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/entity/Theatre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/enums/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bookmyshow/enums/SeatCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/adapter/Adaptee/WeightMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/adapter/Adaptee/WeightMachineImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/adapter/Adaptor/WeightInKg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/adapter/Adaptor/WeightInKgImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/adapter/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/calculator/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/calculator/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/calculator/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/calculator/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/calculator/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/fileSystem/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/fileSystem/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/fileSystem/FileImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/fileSystem/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/problemstatement/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/problemstatement/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/designpatterns/composite/problemstatement/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elevator/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elevator/controller/ElevatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elevator/dispatcher/ExternalDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elevator/dispatcher/InternalButtonDispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elevator/entity/Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elevator/entity/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elevator/entity/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elevator/entity/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elevator/enums/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elevator/enums/Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/handlenullobject/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/handlenullobject/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/handlenullobject/vehicle/CarVehicleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/handlenullobject/vehicle/NullVehicleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/handlenullobject/vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/OrderManagementService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/controller/WareHouseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/entity/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/entity/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/entity/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/entity/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/entity/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/entity/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/entity/WareHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/enums/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/enums/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/interfaces/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/interfaces/PaymentMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/interfaces/UpiPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/strategies/NearestWareHouseSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/strategies/OrderManagementService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inventorymanangementservice/strategies/WareHouseStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loggersystem/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loggersystem/enums/LogLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loggersystem/logprocessor/DebugLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loggersystem/logprocessor/ErrorLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loggersystem/logprocessor/InfoLogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loggersystem/logprocessor/LogProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkinglot/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkinglot/entity/ParkingFloor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkinglot/entity/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkinglot/entity/Slot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkinglot/entity/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkinglot/enums/VehicleType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parkinglot/service/ParkingLotService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/entities/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/entities/pieces/PlayingPiece.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/entities/pieces/PlayingPieceO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/entities/pieces/PlayingPieceX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/entities/players/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tictactoe/enums/PieceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/DriverClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/ItemShelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/enums/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/enums/ItemType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/states/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/states/stateimpl/DispenseState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/states/stateimpl/HasMoneyState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/states/stateimpl/IdleState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendingmachine/states/stateimpl/SelectionState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system-design.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kunalmittalscapia"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kunalmittal51/system-design.git",
+    "accountId": "cec87cc1-3149-4448-9785-d582fc9744dc"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2he8N6HfGozOOyk21jcW7jZ9Yy5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/kunalmittal/preperation/machinecoding",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb74f890-aa19-45fa-aea4-7ca89181e8b6" name="Changes" comment="" />
+      <created>1717943144162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717943144162</updated>
+      <workItem from="1717943145218" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
