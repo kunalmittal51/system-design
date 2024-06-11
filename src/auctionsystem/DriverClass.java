@@ -1,6 +1,7 @@
-package auctionsystem.mediator;
+package auctionsystem;
 
 import auctionsystem.colleague.Bidder;
+import auctionsystem.mediator.AuctionMediator;
 
 public class DriverClass {
     public static void main(String[] args) {
